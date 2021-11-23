@@ -16,9 +16,9 @@ By the end of the course, the learner should be able to
 ## Prerequisite
 - N/A
 ## Delivery Mode
-- Lecture + Tutorial (B307)
+- Lecture + Tutorial (B310)
 - Monday: 1300-1500
-- Wednesday: 1300-1400
+- Wednesday: 0900-1000
 ## Assessment
 - Coursework: Test + Assignment
 - Final Examination
